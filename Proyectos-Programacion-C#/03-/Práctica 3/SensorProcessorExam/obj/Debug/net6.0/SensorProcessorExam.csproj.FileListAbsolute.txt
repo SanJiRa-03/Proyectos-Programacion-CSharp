@@ -1,0 +1,45 @@
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.exe
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.deps.json
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.runtimeconfig.json
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.pdb
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.AssemblyInfo.cs
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\refint\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.pdb
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.genruntimeconfig.cache
+C:\Users\sandr\OneDrive - UFV\Escritorio\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\ref\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.deps.json
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.runtimeconfig.json
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.AssemblyInfo.cs
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\refint\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.genruntimeconfig.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\ref\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\SensorProcessorExam\obj\Debug\net6.0\SensorPr.40F8D4B2.Up2Date
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.deps.json
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.runtimeconfig.json
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\bin\Debug\net6.0\SensorProcessorExam.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.AssemblyInfoInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.AssemblyInfo.cs
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\refint\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorProcessorExam.genruntimeconfig.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\ref\SensorProcessorExam.dll
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-C#\03-\Práctica 3\SensorProcessorExam\obj\Debug\net6.0\SensorPr.40F8D4B2.Up2Date

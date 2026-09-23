@@ -35,7 +35,7 @@ namespace Ejercicio_2
 
             try
             {
-                // Uso de 'using' para asegurar el cierre automático del archivo
+                //Uso de 'using' para asegurar el cierre automático del archivo
                 using (StreamReader sr = new StreamReader(nombreArchivo))
                 {
                     string linea;
@@ -59,7 +59,7 @@ namespace Ejercicio_2
 
         public static int ContarPalabrasUnicas(List<string> palabras)
         {
-            // Usamos Distinct() de LINQ para filtrar los elementos duplicados
+            //Uso Distinct() de LINQ para filtrar los elementos duplicados
             return palabras.Distinct().Count();
         }
 
@@ -70,7 +70,7 @@ namespace Ejercicio_2
 
             foreach (string palabra in palabras)
             {
-                // Limpiamos la palabra de signos adyacentes para una coincidencia exacta
+                //Limpio la palabra de signos adyacentes para una coincidencia exacta
                 string palabraLimpia = palabra.Trim('.', ',', ';', ':', '!', '?', '«', '»');
                 if (palabraLimpia == objetivo)
                 {
