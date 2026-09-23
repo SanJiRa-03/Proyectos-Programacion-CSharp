@@ -1,0 +1,31 @@
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.AssemblyReference.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe.config
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.pdb
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.exe
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Práctica 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.pdb
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\obj\Debug\Práctica 1.exe
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\obj\Debug\Práctica 1.pdb
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe.config
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe
+C:\Users\sandr\OneDrive\Escritorio\Práctica 1\Práctica 1\bin\Debug\Práctica 1.pdb
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe.config
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.pdb
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.AssemblyReference.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.exe
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe.config
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\bin\Debug\Práctica 1.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Meter\UFV\1º AÑO\2º Cuatrimestre\POO\Examen 1\Práctica 1\Práctica 1\obj\Debug\Práctica 1.pdb
