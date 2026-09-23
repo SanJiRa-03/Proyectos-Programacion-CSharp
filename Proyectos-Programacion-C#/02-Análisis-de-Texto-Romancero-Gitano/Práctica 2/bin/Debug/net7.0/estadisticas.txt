@@ -1,0 +1,4 @@
+Palabras totales: 6333
+Palabras únicas: 2021
+Puntos totales: 0
+Número de veces que aparece la palabra 'niño': 9

@@ -1,0 +1,4 @@
+Palabras totales: 5041
+Palabras únicas: 2020
+Número de veces que aparece la palabra 'niño': 12
+'.' totales: 397
