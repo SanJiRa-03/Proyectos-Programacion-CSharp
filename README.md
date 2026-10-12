@@ -6,10 +6,10 @@
 
 El repositorio está organizado por módulos independientes. Cada carpeta contiene el código fuente correspondiente junto con su propia documentación detallada:
 
-*   **[01-Gestion-Embarcaciones-POO](./Proyectos-Programacion-CSharp/01-Gestion-Embarcaciones-POO):** Sistema orientado a objetos para la administración y control de flotas de embarcaciones, aplicando jerarquías de clases y encapsulamiento.
-*   **[02-Analisis-de-Texto-Romancero-Gitano](./Proyectos-Programacion-CSharp/02-Analisis-de-Texto-Romancero-Gitano):** Herramienta de procesamiento de texto inspirada en la literatura española, optimizada mediante LINQ, sanitización de puntuación y gestión eficiente de flujos E/S con `StreamReader`/`StreamWriter`.
-*   **[03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT](./Proyectos-Programacion-CSharp/03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT):** Aplicación robusta para la ingesta, auditoría estructural de 7 parámetros clave, aislamiento de anomalías y exportación limpia de lecturas de sensores en tiempo real.
-*   **[04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO](./Proyectos-Programacion-CSharp/04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO):** Sistema interactivo de consola para comandas que implementa herencia, polimorfismo, composición y colecciones dinámicas (`List<T>`) para gestionar menús personalizados (*Estándar*, *Foddie*, *Light*) y actualización de estados mediante enumeraciones (`enum`).
+*   **[01-Gestion-Embarcaciones-POO](./Proyectos-Programacion-C#/01-Gestion-Embarcaciones-POO):** Sistema orientado a objetos para la administración y control de flotas de embarcaciones, aplicando jerarquías de clases y encapsulamiento.
+*   **[02-Analisis-de-Texto-Romancero-Gitano](./Proyectos-Programacion-C#/02-Analisis-de-Texto-Romancero-Gitano):** Herramienta de procesamiento de texto inspirada en la literatura española, optimizada mediante LINQ, sanitización de puntuación y gestión eficiente de flujos E/S con `StreamReader`/`StreamWriter`.
+*   **[03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT](./Proyectos-Programacion-C#/03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT):** Aplicación robusta para la ingesta, auditoría estructural de 7 parámetros clave, aislamiento de anomalías y exportación limpia de lecturas de sensores en tiempo real.
+*   **[04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO](./Proyectos-Programacion-C#/04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO):** Sistema interactivo de consola para comandas que implementa herencia, polimorfismo, composición y colecciones dinámicas (`List<T>`) para gestionar menús personalizados (*Estándar*, *Foddie*, *Light*) y actualización de estados mediante enumeraciones (`enum`).
 
 ## 🛠️ Tecnologías y Conceptos Clave
 
