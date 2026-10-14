@@ -1,0 +1,39 @@
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\bin\Debug\Practica2.exe
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\obj\Debug\Practica2.exe
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2\obj\Debug\Practica2.pdb
+C:\Users\sandr\OneDrive\Escritorio\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\sandr\OneDrive\Escritorio\Practica2\bin\Debug\Practica2.exe
+C:\Users\sandr\OneDrive\Escritorio\Practica2\bin\Debug\Practica2.pdb
+C:\Users\sandr\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandr\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.exe
+C:\Users\sandr\OneDrive\Escritorio\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\bin\Debug\Practica2.exe
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\obj\Debug\Practica2.exe
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\obj\Debug\Practica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\obj\Debug\Practica2.exe
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\obj\Debug\Practica2.pdb
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\bin\Debug\Practica2.exe.config
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\bin\Debug\Practica2.exe
+C:\Users\Usuario\Downloads\POO\Practicas\Practica2_\bin\Debug\Practica2.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\bin\Debug\Practica2.exe.config
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\bin\Debug\Practica2.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\bin\Debug\Practica2.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\obj\Debug\Practica2.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 2 (Hundir la flota)\P2_ClaudiaOrtiz_SandraJiménez_JaimeDeLaCueva\Practica2_\obj\Debug\Practica2.pdb
