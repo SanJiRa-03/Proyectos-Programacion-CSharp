@@ -1,32 +1,27 @@
 # Portafolio de Proyectos y Desarrollo en C# (.NET)
 
-¡Bienvenido/a a mi repositorio de desarrollo en C#! Este espacio está dedicado a consolidar y organizar mis soluciones de software, prácticas de programación orientada a objetos (POO), gestión de ficheros y algoritmos aplicados. El objetivo principal de este portafolio es asentar bases sólidas de arquitectura, modularidad y buenas prácticas de desarrollo en el ecosistema .NET.
+¡Bienvenido/a a mi repositorio de desarrollo en C#! Este espacio reúne proyectos y prácticas de programación orientada a objetos (POO), gestión de ficheros, procesamiento de datos y desarrollo de aplicaciones. El objetivo es consolidar conocimientos de C# y .NET mediante soluciones modulares y documentadas.
 
-## 📂 Estructura del Repositorio
+## 📂 Estructura del repositorio
 
-El repositorio está organizado por módulos independientes. Cada carpeta contiene el código fuente correspondiente junto con su propia documentación:
+El repositorio está organizado por proyectos independientes. Cada carpeta contiene el código fuente correspondiente y, cuando aplica, documentación adicional.
 
-- [**01-Gestion-Embarcaciones-POO**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/01-Gestion-Embarcaciones-POO): Sistema orientado a objetos para la administración y el control de flotas de embarcaciones, aplicando jerarquías de clases, encapsulamiento y organización de responsabilidades.
+- [**01-Gestion-Embarcaciones-POO**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/01-Gestion-Embarcaciones-POO): sistema orientado a objetos para administrar y controlar flotas de embarcaciones, aplicando jerarquías de clases y encapsulamiento.
+- [**02-Analisis-de-Texto-Romancero-Gitano**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/02-Analisis-de-Texto-Romancero-Gitano): herramienta de análisis de texto que trabaja con LINQ, tratamiento de puntuación y operaciones de entrada y salida con `StreamReader` y `StreamWriter`.
+- [**03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT): aplicación para procesar y filtrar datos de sensores, validar parámetros, detectar anomalías y exportar lecturas.
+- [**04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO): sistema de consola para gestionar pedidos de restaurante mediante herencia, polimorfismo, composición, colecciones `List<T>` y enumeraciones (`enum`).
+- [**05-Juego-de-Hundir-la-Flota-CSharp-POO**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/05-Juego-de-Hundir-la-Flota-CSharp-POO): juego de consola de Hundir la Flota desarrollado con C# y .NET Framework 4.8. Incluye tablero de 12 × 12, modos de juego, tipos de barco y gestión de partidas y resultados mediante ficheros de texto. Se acompaña de presentación y memoria del proyecto.
+- [**06-Juego-de-Simon-Says-CSharp-Windows-Forms**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/06-Juego-de-Simon-Says-CSharp-Windows-Forms): versión de Simon Says para escritorio, desarrollada con C# y Windows Forms sobre .NET Framework 4.8. Incluye pantalla de inicio de sesión, registro de usuarios, secuencias de cuatro colores y almacenamiento de cuentas en `usuarios.txt`. Se acompaña de README individual, memoria y presentación.
 
-- [**02-Analisis-de-Texto-Romancero-Gitano**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/02-Analisis-de-Texto-Romancero-Gitano): Herramienta de procesamiento de texto inspirada en la literatura española, que utiliza LINQ, tratamiento de puntuación y gestión de operaciones de entrada y salida mediante `StreamReader` y `StreamWriter`.
+## 🛠️ Tecnologías y conceptos clave
 
-- [**03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/03-Procesamiento-y-Filtrado-de-Datos-de-Sensores-IoT): Aplicación para el procesamiento y filtrado de datos de sensores IoT, con validación de parámetros, detección de anomalías y exportación de lecturas procesadas.
-
-- [**04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/04-Sistema-de-Gestion-de-Pedidos-Restaurante-POO): Sistema interactivo de consola para la gestión de pedidos de un restaurante. Implementa herencia, polimorfismo, composición y colecciones dinámicas (`List<T>`) para gestionar distintos tipos de menú, como *Estándar*, *Foodie* y *Light*, y actualizar los estados de los pedidos mediante enumeraciones (`enum`).
-
-- [**05-Juego-de-Hundir-la-Flota-CSharp-POO**](https://github.com/SanJiRa-03/Proyectos-Programacion-CSharp/tree/main/Proyectos-Programacion-C%23/05-Juego-de-Hundir-la-Flota-CSharp-POO): Juego de consola desarrollado en C# y .NET Framework 4.8 que recrea la batalla naval por turnos en un tablero de 12 × 12. Incluye distintos tipos de barcos, partidas contra el ordenador o entre dos jugadores, lógica de disparos y registro de resultados mediante ficheros de texto. Permite aplicar conceptos de abstracción, herencia, polimorfismo, encapsulamiento y gestión de clases. El proyecto se complementa con una presentación y una memoria elaboradas junto con mi equipo.
-
-## 🛠️ Tecnologías y Conceptos Clave
-
-A lo largo de los diferentes proyectos se aplican los pilares fundamentales de C# y la ingeniería de software:
-
-- **Programación Orientada a Objetos (POO):** diseño de clases, abstracción, herencia, composición y polimorfismo para mejorar la organización y reutilización del código.
-- **Gestión de ficheros y E/S (Input/Output):** lectura y escritura de datos, manejo de rutas y tratamiento de excepciones mediante `try-catch`.
-- **Manipulación de colecciones y LINQ:** utilización de `List<T>`, filtrado de información, conteo de ocurrencias y procesamiento de estructuras de datos en memoria.
-- **Algoritmos y lógica de negocio:** implementación de validaciones, reglas de funcionamiento, procesamiento de información y resolución de problemas mediante código.
-- **Clean Code y modularidad:** separación de responsabilidades entre la interfaz de consola y la lógica de negocio, uso de métodos específicos y encapsulamiento del estado de los objetos.
-- **Persistencia de datos:** utilización de ficheros de texto para almacenar información y conservar resultados cuando la aplicación lo requiere.
+- **C# y .NET Framework:** desarrollo de aplicaciones de consola y escritorio.
+- **Programación Orientada a Objetos:** diseño de clases, abstracción, encapsulamiento, herencia, composición y polimorfismo cuando corresponde al proyecto.
+- **Colecciones y algoritmos:** listas, recorrido de secuencias, filtrado y validación de datos.
+- **Gestión de ficheros y E/S:** lectura y escritura mediante `StreamReader` y `StreamWriter`, y persistencia sencilla en ficheros de texto.
+- **Interfaces y eventos:** formularios de Windows Forms y gestión de eventos de botones y ratón.
+- **Modularidad y mantenibilidad:** separación de responsabilidades entre formularios, clases de datos y lógica de aplicación.
 
 ---
 
-*Proyectos desarrollados con un enfoque en el aprendizaje continuo, la modularidad, la mantenibilidad y la aplicación de buenas prácticas de programación en el ecosistema C# y .NET.*
+*Proyectos desarrollados con enfoque en aprendizaje continuo, modularidad, mantenibilidad y buenas prácticas de programación en el ecosistema C# y .NET.*
