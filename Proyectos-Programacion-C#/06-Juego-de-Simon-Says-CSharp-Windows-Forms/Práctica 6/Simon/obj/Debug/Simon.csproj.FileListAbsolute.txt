@@ -24,3 +24,16 @@ C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\
 C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
 C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.exe
 C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\bin\Debug\Simon.exe.config
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\bin\Debug\Simon.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\bin\Debug\Simon.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.exe.config
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.Form1.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.Form2.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.Form3.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.csproj.GenerateResource.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\Proyectos-Programacion-CSharp\06-Juego-de-Simon-Says-CSharp-Windows-Forms\Práctica 6\Simon\obj\Debug\Simon.pdb
