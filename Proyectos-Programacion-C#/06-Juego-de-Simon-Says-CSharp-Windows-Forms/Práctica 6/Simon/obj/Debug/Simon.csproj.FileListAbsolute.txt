@@ -1,0 +1,26 @@
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\bin\Debug\Simon.exe.config
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\bin\Debug\Simon.exe
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\bin\Debug\Simon.pdb
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.csproj.AssemblyReference.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.Form1.resources
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.exe
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.pdb
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.Form2.resources
+G:\Mi unidad\Apuntes\2º AÑO\2ºCuatrimestre\POO\Prácticas\Práctica 3\Simon\Simon\obj\Debug\Simon.Form3.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\bin\Debug\Simon.exe.config
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.csproj.AssemblyReference.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.exe.config
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.Form1.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.Form2.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.Form3.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\sandr\OneDrive - UDIT\Escritorio\LinkedIn\Posts\16\Práctica 3 (Simon)\Simon\Simon\obj\Debug\Simon.pdb
