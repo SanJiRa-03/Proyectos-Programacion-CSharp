@@ -1,0 +1,27 @@
+Práctica de C#: Gestión de archivos para una biblioteca
+
+En esta práctica, crearás un programa de gestión de archivos para una biblioteca utilizando C# y aplicando los siguientes conceptos:
+
+Herencia
+Encapsulación
+Polimorfismo
+Composición
+Clases abstractas
+Gestión de errores con try catch
+Manipulación de ficheros
+El programa deberá permitir las siguientes funcionalidades:
+
+Agregar un nuevo archivo a la biblioteca, ya sea un libro o una revista.
+Mostrar la información de todos los archivos en la biblioteca.
+Buscar un archivo en particular por su título o autor.
+Eliminar un archivo de la biblioteca.
+Mostrar un informe con estadísticas de la biblioteca, como el número total de archivos, el número de libros y el número de revistas.
+Para la implementación del programa, se deberá utilizar herencia para crear una clase base "Archivo" y clases derivadas como "Libro" y "Revista". Cada archivo deberá tener información como título, autor, fecha de publicación, editorial, etc.
+
+También se deberá utilizar encapsulación para proteger los datos privados de cada archivo, evitando su acceso directo desde fuera de la clase. Asimismo, se utilizará polimorfismo para implementar métodos abstractos en la clase base y en las clases derivadas, como "ImprimirInformación()".
+
+Para la manipulación de archivos, se deberá implementar una clase "ArchivoManager" que incluirá métodos para leer y escribir en archivos. Esta clase utilizará la composición, al estar compuesta por una instancia de la clase "Archivo". Además, para asegurarse de que los archivos se manipulan correctamente, se deberá utilizar gestión de errores con try catch.
+
+Por último, se deberá implementar la manipulación de ficheros para almacenar la información de la biblioteca en un archivo de texto. Se deberá permitir la lectura y escritura de este archivo, así como la eliminación de archivos de la biblioteca.
+
+Recuerda que la práctica deberá estar debidamente documentada, con comentarios explicativos en cada método y clase. Además, se deberá seguir una estructura clara y coherente para facilitar la comprensión del código. ¡Buena suerte!

@@ -1,0 +1,17 @@
+Enunciado de la práctica:
+
+Crea una clase llamada "Vehiculo" que contenga los atributos "marca", "modelo" y "año". Esta clase debe ser abstracta para que no se puedan crear objetos directamente de ella, sino que se deberán crear clases hijas que hereden de ella.
+
+Luego, crea dos clases hijas: "Auto" y "Camioneta". Ambas deben heredar de la clase "Vehiculo" y además, deben tener un atributo adicional llamado "cantidadPuertas" y "tipoCaja" respectivamente.
+
+A continuación, crea una clase llamada "Concesionaria" que contenga una lista de vehículos y un método para agregar un vehículo a la lista.
+
+Por último, crea un programa que permita al usuario ingresar los datos de un auto o camioneta y agregarlo a la lista de la concesionaria. El programa debe ser capaz de manejar ambos tipos de vehículos de forma polimórfica y encapsulada, y debe mostrar la lista completa de vehículos en la concesionaria.
+
+Este ejemplo combina los cinco conceptos que mencionaste:
+
+Herencia: la clase "Auto" y "Camioneta" heredan de la clase "Vehiculo".
+Composición: la clase "Concesionaria" contiene una lista de vehículos.
+Polimorfismo: el programa puede manejar tanto autos como camionetas de forma polimórfica.
+Encapsulación: los atributos de las clases están encapsulados para que no se puedan modificar desde fuera de las clases.
+Abstracción: la clase "Vehiculo" es abstracta y no se pueden crear objetos directamente de ella.
