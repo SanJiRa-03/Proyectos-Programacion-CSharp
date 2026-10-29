@@ -1,61 +1,58 @@
 # 🎬 10 - Gestor de Contenidos en C# (películas, series y podcasts)
 
-Plataforma de consola, a modo de catálogo de streaming, desarrollada en **C#**, donde los usuarios se registran, inician sesión y gestionan **películas, series y podcasts**. Es un proyecto realizado **en equipo** 🤝, con persistencia de datos en ficheros de texto.
+Catálogo de consola en **C#** que se comporta como una pequeña plataforma de streaming: cada persona crea su cuenta, entra y gestiona **películas, series y podcasts**. Es un **proyecto en equipo** 🤝 que guarda sus datos en ficheros de texto.
 
-## 🚀 Funcionalidades
+## 🍿 Idea del proyecto
 
-* 🔐 **Usuarios:** registro de nuevos usuarios e inicio de sesión.
-* ➕ **Añadir contenido:** películas, series o podcasts con sus datos (título, plataforma, descripción, género, enlace y calificación por edades).
-* 🔎 **Buscar** un contenido por su título.
-* 📋 **Mostrar** todos los contenidos o solo los de un tipo.
-* 👍 **Likes:** dar «me gusta» a un contenido y consultar el más valorado.
-* 💾 **Persistencia:** usuarios y contenidos se guardan en ficheros de texto y se recuperan al volver a abrir el programa.
+Hay un catálogo común donde cualquier usuario registrado puede añadir contenidos, buscarlos, filtrarlos por tipo y darles «me gusta». El programa también sabe cuál es el contenido más valorado. Al cerrar, todo se escribe en disco, y al volver a abrir se recupera.
 
-## 📋 Menú del programa
+## 👥 Cuentas y contenidos
 
-1. Añadir nuevo contenido.
-2. Buscar contenido por su título.
-3. Mostrar todos los contenidos (películas, series y podcasts).
-4. Mostrar todos los contenidos de un tipo.
-5. Mostrar el contenido con mayor número de likes.
-6. Valorar un contenido (dar like).
-7. Cerrar sesión.
+* 🔐 **Cuentas:** registro de usuarios nuevos e inicio de sesión.
+* 🎞️ **Contenido:** título, plataforma, descripción, género, enlace, calificación por edades y número de likes.
+* 🎥 **Películas:** añaden director, distribuidora, año de estreno y duración.
+* 📺 **Series:** añaden número de temporadas, estado (en emisión o finalizada) y su lista de episodios.
+* 🎙️ **Podcasts:** añaden tipo, fecha de caducidad y su lista de episodios.
 
-## 🧱 Estructura del proyecto
+## 🧭 Menú principal
 
-| 🧩 Clase | 🎯 Responsabilidad |
+| 🔢 | 📖 Acción |
 |---|---|
-| `Contenido` (base) | Título, plataforma, descripción, género, enlace, calificación y likes. Métodos `virtual` para mostrar y exportar. |
-| 🎥 `Pelicula` | Añade director, distribuidora, año de estreno y duración. |
-| 📺 `Serie` | Añade número de temporadas, estado (en emisión o finalizada) y una lista de episodios. |
-| 🎙️ `Podcast` | Añade tipo, fecha de caducidad y su lista de episodios. |
-| `Episodio` | Título, temporada y número de episodio. |
-| `Usuario` | Nombre y contraseña de cada usuario. |
-| `Catalogo` | Gestiona la lista de contenidos y usuarios, el login, la lectura y la escritura de ficheros. |
-| `Program.cs` | Menús y flujo principal del programa. |
+| 1 | Añadir contenido nuevo. |
+| 2 | Buscar por título. |
+| 3 | Mostrar todos los contenidos. |
+| 4 | Mostrar los de un tipo. |
+| 5 | Ver el contenido con más likes. |
+| 6 | Dar like a un contenido. |
+| 7 | Cerrar sesión. |
 
-## 🛠️ Tecnologías y conceptos
+## 🗺️ Mapa de clases
 
-* 💻 **C#** y **.NET Framework**.
-* 🧬 **Herencia y polimorfismo:** `Pelicula`, `Serie` y `Podcast` heredan de `Contenido` y sobrescriben sus métodos.
-* 🧩 **Composición:** series y podcasts contienen listas de `Episodio`.
-* 🗂️ **Separación de responsabilidades:** la clase `Catalogo` concentra la lógica y `Program` solo gestiona los menús.
-* 💾 **Ficheros:** lectura y escritura con `FileStream` y `StreamWriter`.
-* 🛡️ **Gestión de errores** y comprobaciones de datos (título repetido, edad válida…).
+* **`Contenido`**: clase base con los datos comunes y métodos `virtual` para mostrar y exportar.
+* **`Pelicula`**, **`Serie`** y **`Podcast`**: heredan de `Contenido` y sobrescriben esos métodos.
+* **`Episodio`**: título, temporada y número de episodio.
+* **`Usuario`**: nombre y contraseña.
+* **`Catalogo`**: lista de contenidos y de usuarios, login y lectura/escritura de ficheros.
+* **`Program.cs`**: menús y flujo principal.
+
+## 📁 Datos guardados
+
+Los usuarios y los contenidos se escriben en dos ficheros de texto, `Usuarios.txt` y `Contenidos.txt`, que se crean junto al ejecutable la primera vez que se usa el programa.
+
+## 🧪 Qué se ha practicado
+
+* 🧬 **Herencia y polimorfismo** con tres tipos de contenido.
+* 🧩 **Composición:** series y podcasts contienen episodios.
+* 🗂️ **Separación de responsabilidades** entre el catálogo y el menú.
+* 💾 **Ficheros** con `FileStream` y `StreamWriter`.
+* 🛡️ **Comprobaciones de datos:** título repetido, edad válida y tipo de contenido.
 * 🤝 **Trabajo en equipo.**
 
-## ▶️ Cómo ejecutar
+## ⚙️ Cómo abrirlo
 
 1. Abre `GestorDeContenidos.sln` con **Visual Studio**.
 2. Compila y ejecuta con **F5**.
-3. Regístrate como nuevo usuario e inicia sesión.
-4. Los ficheros de datos se crean solos en el directorio de ejecución la primera vez.
-
-## 🔭 Mejoras posibles
-
-* 🔑 Guardar las contraseñas de forma segura (ahora se guardan en texto plano, algo aceptable solo en un ejercicio académico).
-* 🖥️ Crear una interfaz gráfica en lugar de la consola.
-* 🔢 Más controles sobre entradas no numéricas.
+3. Crea un usuario nuevo, inicia sesión y empieza a añadir contenidos.
 
 ---
-🎓 *Proyecto en equipo para practicar herencia, composición y persistencia en ficheros con C#.*
+🎓 *Proyecto en equipo sobre herencia, composición y persistencia de datos en C#.*
