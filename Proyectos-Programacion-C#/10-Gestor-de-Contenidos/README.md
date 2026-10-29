@@ -1,22 +1,34 @@
-# 10 · Gestor de contenidos
+# Gestor de Contenidos en C# (película, series y podcasts)
 
-## ¿De qué va la práctica?
-Una plataforma de consola, a modo de catálogo de streaming, para gestionar **películas, series y podcasts**. Cada usuario se registra, inicia sesión y puede consultar y valorar los contenidos. Proyecto realizado **en equipo**.
+Plataforma de consola, a modo de catálogo de streaming, donde los usuarios se registran, inician sesión y gestionan **películas, series y podcasts**. Proyecto realizado **en equipo**.
 
-## ¿Qué incluye?
-- **Registro e inicio de sesión** de usuarios.
-- Añadir nuevo contenido (película, serie o podcast).
-- Buscar un contenido por su título.
-- Mostrar todos los contenidos o solo los de un tipo.
-- Mostrar el contenido con **más likes** y dar like a un contenido.
-- **Persistencia en ficheros de texto**: los usuarios y contenidos se guardan y se recuperan al volver a abrir el programa.
+## 🚀 Características
 
-## Contenidos que se practican
-- **Herencia y polimorfismo**: `Contenido` como clase base de `Pelicula`, `Serie` y `Podcast`, con métodos `virtual`/`override` para mostrar y exportar los datos.
-- **Composición**: una `Serie` contiene sus `Episodio`.
-- **Clases de gestión**: `Catalogo` y `Usuario` separan la lógica de los datos.
-- **Ficheros** con `StreamReader` y `StreamWriter`.
-- **Gestión de errores** con `try/catch` y trabajo colaborativo en equipo.
+* **Usuarios:** registro de nuevos usuarios e inicio de sesión.
+* **Jerarquía de contenidos:** una clase base `Contenido` de la que heredan `Pelicula`, `Serie` y `Podcast`, con métodos `virtual`/`override` para mostrar y exportar cada tipo.
+* **Composición:** una `Serie` contiene una lista de `Episodio`; un `Podcast` también agrupa los suyos.
+* **Catálogo:** la clase `Catalogo` centraliza la gestión de los contenidos y la separa del menú.
+* **Persistencia de datos:** usuarios y contenidos se guardan en ficheros de texto y se recuperan al volver a abrir el programa.
 
-## Ejecutar
-Abrir `GestorDeContenidos.sln` en Visual Studio y pulsar F5. Los ficheros `Usuarios.txt` y `Contenidos.txt` se crean solos junto al ejecutable.
+## 📋 Menú del programa
+
+1. Añadir nuevo contenido (película, serie o podcast).
+2. Buscar un contenido por su título.
+3. Mostrar todos los contenidos.
+4. Mostrar los contenidos de un tipo.
+5. Mostrar el contenido con más likes.
+6. Valorar un contenido (dar like).
+7. Cerrar sesión.
+
+## 🛠️ Tecnologías aplicadas
+
+* Lenguaje C# (.NET Framework)
+* Herencia, polimorfismo, composición y encapsulamiento
+* Colecciones dinámicas (`List<T>`)
+* Entrada/Salida y manejo de ficheros (`System.IO`)
+* Gestión de errores con `try/catch`
+* Trabajo en equipo
+
+## ▶️ Ejecución
+
+Abre `GestorDeContenidos.sln` con Visual Studio y pulsa **F5**. Los ficheros de datos se crean solos junto al ejecutable.
