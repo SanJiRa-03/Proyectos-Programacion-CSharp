@@ -1,24 +1,47 @@
-# Catálogo de Astros en C#
+# 🔭 09 - Catálogo de Astros en C#
 
-Programa de consola para registrar y consultar cuerpos celestes. Cada tipo de astro comparte unos datos básicos y añade sus propias características, lo que lo convierte en un buen ejercicio de **herencia**.
+Programa de consola desarrollado en **C#** para registrar y consultar cuerpos celestes. Cada tipo de astro comparte unos datos básicos y añade sus propias características, lo que lo convierte en un buen ejercicio de **herencia** y encapsulamiento. 🌌
 
-## 🚀 Características
+## 🚀 Funcionalidades
 
-* **Clase base `Astro`:** nombre, diámetro y posición en el espacio (X, Y, Z).
-* **Clases especializadas:**
-  * 🌟 `Estrella`: número de planetas que la orbitan y temperatura.
-  * ☄️ `Cometa`: año de descubrimiento, estrella que orbita y periodo orbital.
-  * 🪐 `Planeta`: periodo orbital, inclinación y si es habitable.
-* **Menú por texto:** se elige el tipo de astro (estrellas, cometas o planetas) y después crear, mostrar, buscar por nombre o salir.
-* **Propiedades y encapsulamiento:** los datos de cada clase se protegen y se consultan mediante propiedades.
+* 🧭 **Menú por texto:** se elige el tipo de astro (estrellas, cometas o planetas) y después la acción: crear, mostrar, buscar o salir.
+* ➕ **Crear astros:** el programa pide por consola los datos propios de cada tipo.
+* 📋 **Mostrar el catálogo:** lista los astros registrados de cada tipo.
+* 🔎 **Buscar por nombre:** localiza un astro concreto escribiendo su nombre.
+* ⚠️ **Opciones no válidas:** el programa avisa cuando se escribe una opción que no existe.
 
-## 🛠️ Tecnologías aplicadas
+## 🧱 Jerarquía de clases
 
-* Lenguaje C# (.NET Framework)
-* Herencia (`: base`) y encapsulamiento
-* Colecciones dinámicas (`List<T>`)
-* Aplicación de consola con menús de texto
+| 🧩 Clase | 📖 Datos que guarda |
+|---|---|
+| `Astro` (base) | Nombre, diámetro y posición en el espacio (X, Y, Z). |
+| 🌟 `Estrella` | Número de planetas que la orbitan y temperatura. |
+| ☄️ `Cometa` | Año de descubrimiento, estrella que orbita y periodo orbital. |
+| 🪐 `Planeta` | Periodo orbital, inclinación y si es habitable. |
+| `Program.cs` | Menú, creación de objetos y búsqueda. |
 
-## ▶️ Ejecución
+## 🛠️ Tecnologías y conceptos
 
-Abre `CatalogoAstros.sln` con Visual Studio y pulsa **F5**.
+* 💻 **C#** y **.NET Framework**.
+* 🧬 **Herencia:** las tres clases hijas reutilizan los datos de `Astro` mediante `: base`.
+* 🔒 **Encapsulamiento:** atributos protegidos o privados que se consultan mediante propiedades.
+* 📋 **Colecciones dinámicas** con `List<T>` para guardar los distintos tipos de astro.
+* 🔢 **Distintos tipos de datos:** cadenas, enteros, decimales y booleanos.
+* ⌨️ **Interacción por consola** con menús de texto.
+
+## ▶️ Cómo ejecutar
+
+1. Abre `CatalogoAstros.sln` con **Visual Studio**.
+2. Compila y ejecuta con **F5**.
+3. Escribe el tipo de astro (por ejemplo, `estrellas`) y, después, la acción que quieras realizar.
+
+## 🔭 Alcance y mejoras posibles
+
+Los astros se almacenan **solo en memoria** mientras el programa está abierto. Se podría ampliar con:
+
+* 💾 Guardar y cargar el catálogo desde un fichero.
+* 🔢 Validar que los valores numéricos sean correctos.
+* 🗑️ Opciones para modificar o eliminar astros.
+
+---
+🎓 *Proyecto de práctica para aplicar herencia y encapsulamiento en C#.*
