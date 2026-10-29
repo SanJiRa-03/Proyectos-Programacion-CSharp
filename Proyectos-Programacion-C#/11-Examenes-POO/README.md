@@ -1,13 +1,39 @@
-# 11 · Exámenes de POO
+# Exámenes de POO en C#
 
-Tres ejercicios planteados como examen. En todos hay que diseñar una jerarquía de clases, ofrecer un menú de consola y guardar y leer la información en ficheros de texto.
+Tres ejercicios planteados como examen en los que había que diseñar una jerarquía de clases, programar un menú de consola y trabajar con ficheros de texto. Cada carpeta tiene su propia solución (`.sln`).
 
-| Carpeta | De qué va | Contenidos |
-|---|---|---|
-| [Biblioteca-de-Materiales](Biblioteca-de-Materiales) | Gestión de materiales de una biblioteca: libros, revistas y periódicos. | Clase abstracta `Material` con métodos abstractos (`WriteInfo`, `GetInfo`) implementados en `Libro`, `Revista` y `Periodico`; lectura y escritura de ficheros. |
-| [Tienda-de-Instrumentos](Tienda-de-Instrumentos) | Tienda de guitarras y pianos con **alquiler** por número de serie. | Herencia (`Instrumentos` → `Guitarras`, `Pianos`), `virtual`/`override`, listado de instrumentos alquilados, `try/catch`. |
-| [Deportistas](Deportistas) | Registro de deportistas de atletismo, ciclismo y natación. | Herencia (`Deportista` → `Atletismo`, `Ciclismo`, `Natación`), datos específicos por deporte y persistencia en fichero. |
+## 📚 Biblioteca de Materiales
 
-**Conceptos comunes:** herencia, abstracción, polimorfismo, encapsulación, `List<T>`, ficheros (`StreamReader`/`StreamWriter`) y control de errores.
+Gestión de los materiales de una biblioteca: libros, revistas y periódicos.
 
-Cada carpeta contiene su propio `.sln`.
+* **Clase abstracta `Material`** con métodos abstractos que implementan `Libro`, `Revista` y `Periodico`.
+* **Polimorfismo:** cada tipo escribe y muestra su información a su manera.
+* **Ficheros:** el programa crea los materiales, los guarda en un fichero de texto y los vuelve a leer.
+
+## 🎸 Tienda de Instrumentos
+
+Tienda de guitarras y pianos con servicio de **alquiler**.
+
+* **Jerarquía:** `Instrumentos` como clase base de `Guitarras` y `Pianos`.
+* **Alquiler** de instrumentos por número de serie y listado de los instrumentos alquilados con su ubicación (latitud y longitud).
+* **Control de errores** con `try/catch` y validación del número de serie.
+
+## 🏃 Deportistas
+
+Registro de deportistas según su disciplina.
+
+* **Jerarquía:** `Deportista` como clase base de `Atletismo`, `Ciclismo` y `Natación`, cada una con sus datos específicos (por ejemplo, la velocidad del atleta).
+* **Listas por disciplina** y consulta de la información.
+* **Ficheros:** lectura y escritura del registro en un fichero de texto.
+
+## 🛠️ Tecnologías aplicadas
+
+* Lenguaje C# (.NET Framework)
+* Herencia, clases abstractas, polimorfismo y encapsulamiento
+* Colecciones dinámicas (`List<T>`)
+* Entrada/Salida y manejo de ficheros (`System.IO`)
+* Gestión de errores con `try/catch`
+
+## ▶️ Ejecución
+
+Entra en la carpeta del ejercicio, abre su `.sln` con Visual Studio y pulsa **F5**.
