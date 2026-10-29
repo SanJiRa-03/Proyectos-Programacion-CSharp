@@ -1,18 +1,24 @@
-# 09 · Catálogo de astros
+# Catálogo de Astros en C#
 
-## ¿De qué va la práctica?
-Un catálogo de consola para registrar y consultar cuerpos celestes. Se elige el tipo de astro (estrella, cometa o planeta), se introducen sus datos y el programa los organiza.
+Programa de consola para registrar y consultar cuerpos celestes. Cada tipo de astro comparte unos datos básicos y añade sus propias características, lo que lo convierte en un buen ejercicio de **herencia**.
 
-## ¿Qué incluye?
-- Menú para elegir entre **estrellas**, **cometas** y **planetas**.
-- Entrada de datos específica para cada tipo de astro.
-- Listado de los astros registrados.
+## 🚀 Características
 
-## Contenidos que se practican
-- **Herencia**: la clase base `Astro` y las derivadas `Estrella`, `Cometa` y `Planeta`.
-- **Constructores** encadenados con `base`.
-- **Colecciones** (`List<T>`) para almacenar los distintos tipos de astro.
-- **Menús por texto** y manejo de distintos tipos de datos (cadenas, enteros y decimales).
+* **Clase base `Astro`:** nombre, diámetro y posición en el espacio (X, Y, Z).
+* **Clases especializadas:**
+  * 🌟 `Estrella`: número de planetas que la orbitan y temperatura.
+  * ☄️ `Cometa`: año de descubrimiento, estrella que orbita y periodo orbital.
+  * 🪐 `Planeta`: periodo orbital, inclinación y si es habitable.
+* **Menú por texto:** se elige el tipo de astro (estrellas, cometas o planetas) y después crear, mostrar, buscar por nombre o salir.
+* **Propiedades y encapsulamiento:** los datos de cada clase se protegen y se consultan mediante propiedades.
 
-## Ejecutar
-Abrir `CatalogoAstros.sln` en Visual Studio y pulsar F5.
+## 🛠️ Tecnologías aplicadas
+
+* Lenguaje C# (.NET Framework)
+* Herencia (`: base`) y encapsulamiento
+* Colecciones dinámicas (`List<T>`)
+* Aplicación de consola con menús de texto
+
+## ▶️ Ejecución
+
+Abre `CatalogoAstros.sln` con Visual Studio y pulsa **F5**.
