@@ -1,39 +1,54 @@
-# Exámenes de POO en C#
+# 📝 11 - Exámenes de POO en C#
 
-Tres ejercicios planteados como examen en los que había que diseñar una jerarquía de clases, programar un menú de consola y trabajar con ficheros de texto. Cada carpeta tiene su propia solución (`.sln`).
+Tres ejercicios que se plantearon como **examen** de Programación Orientada a Objetos. En cada uno el enunciado pedía montar una jerarquía de clases y hacer que el programa funcionara de principio a fin. Cada carpeta tiene su propia solución de Visual Studio (`.sln`). ⏱️
 
 ## 📚 Biblioteca de Materiales
 
-Gestión de los materiales de una biblioteca: libros, revistas y periódicos.
+**Reto:** representar el fondo de una biblioteca con tres tipos de material.
 
-* **Clase abstracta `Material`** con métodos abstractos que implementan `Libro`, `Revista` y `Periodico`.
-* **Polimorfismo:** cada tipo escribe y muestra su información a su manera.
-* **Ficheros:** el programa crea los materiales, los guarda en un fichero de texto y los vuelve a leer.
+* 🧱 `Material` es una **clase abstracta** con dos métodos abstractos, `WriteInfo` y `GetInfo`.
+* 📖 `Libro`, `Revista` y `Periodico` los implementan cada uno a su manera.
+* 📥 El programa crea dos materiales de cada tipo con constructores parametrizados y los guarda en una lista.
+* 💾 Escribe la lista en un fichero de texto y la vuelve a leer para mostrarla.
 
 ## 🎸 Tienda de Instrumentos
 
-Tienda de guitarras y pianos con servicio de **alquiler**.
+**Reto:** controlar el stock y el alquiler de una tienda de música.
 
-* **Jerarquía:** `Instrumentos` como clase base de `Guitarras` y `Pianos`.
-* **Alquiler** de instrumentos por número de serie y listado de los instrumentos alquilados con su ubicación (latitud y longitud).
-* **Control de errores** con `try/catch` y validación del número de serie.
+* 🧬 `Instrumentos` reúne marca, modelo, número de serie, ubicación y estado de alquiler; `Guitarras` y `Pianos` añaden lo suyo.
+* 🔑 Un instrumento se alquila indicando su **número de serie**.
+* 📍 Se puede listar lo que está alquilado junto a su **latitud y longitud**.
+* 🛡️ Un número de serie inexistente se detecta y se avisa al usuario.
 
 ## 🏃 Deportistas
 
-Registro de deportistas según su disciplina.
+**Reto:** registrar atletas, ciclistas y nadadores en una misma aplicación.
 
-* **Jerarquía:** `Deportista` como clase base de `Atletismo`, `Ciclismo` y `Natación`, cada una con sus datos específicos (por ejemplo, la velocidad del atleta).
-* **Listas por disciplina** y consulta de la información.
-* **Ficheros:** lectura y escritura del registro en un fichero de texto.
+* 🧬 `Deportista` es la base de `Atletismo`, `Ciclismo` y `Natación`; por ejemplo, el atleta guarda su velocidad en km/h.
+* 📋 Además de la lista general, hay una lista por disciplina.
+* 💾 El registro se lee y se escribe en un fichero de texto.
 
-## 🛠️ Tecnologías aplicadas
+## 🧾 Comparativa
 
-* Lenguaje C# (.NET Framework)
-* Herencia, clases abstractas, polimorfismo y encapsulamiento
-* Colecciones dinámicas (`List<T>`)
-* Entrada/Salida y manejo de ficheros (`System.IO`)
-* Gestión de errores con `try/catch`
+| 📁 Examen | 🧩 Jerarquía | 🎯 Lo más importante |
+|---|---|---|
+| Biblioteca de Materiales | `Material` → `Libro`, `Revista`, `Periodico` | Clases y métodos abstractos |
+| Tienda de Instrumentos | `Instrumentos` → `Guitarras`, `Pianos` | Alquiler y ubicación |
+| Deportistas | `Deportista` → `Atletismo`, `Ciclismo`, `Natación` | Listas por disciplina |
 
-## ▶️ Ejecución
+## 🔧 Conceptos que cubren
 
-Entra en la carpeta del ejercicio, abre su `.sln` con Visual Studio y pulsa **F5**.
+* 🧬 Herencia, polimorfismo y encapsulamiento.
+* 🧱 Clases y métodos abstractos.
+* 📋 `List<T>` como colección.
+* 💾 Lectura y escritura de ficheros con `StreamReader` y `StreamWriter`.
+* 🛡️ Control de errores con `try/catch`.
+
+## ▶️ Cómo abrirlos
+
+1. Entra en la carpeta del examen que quieras revisar.
+2. Abre su `.sln` con **Visual Studio**.
+3. Compila y ejecuta con **F5**.
+
+---
+🎓 *Exámenes resueltos para consolidar la programación orientada a objetos en C#.*
