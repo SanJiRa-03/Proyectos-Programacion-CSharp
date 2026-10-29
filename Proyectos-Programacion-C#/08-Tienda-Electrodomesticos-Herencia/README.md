@@ -1,57 +1,48 @@
 # 🏬 08 - Tienda de Electrodomésticos en C# (Herencia)
 
-Aplicación de consola desarrollada en **C#** para gestionar el catálogo de una tienda de electrodomésticos. Es una práctica pensada para aplicar la **herencia** y el **polimorfismo**: los datos comunes viven en una clase base y cada tipo de aparato añade sus propias características. 🧺
+Aplicación de consola en **C#** que lleva el catálogo de una tienda de electrodomésticos. Lavadoras, lavavajillas, neveras y hornos comparten una base común y cada uno añade lo que lo distingue, así que la práctica gira en torno a la **herencia** y el **polimorfismo**. 🧺
 
-## 🚀 Funcionalidades
+## 🛍️ ¿Cómo funciona?
 
-* ➕ **Introducir electrodomésticos:** se elige el tipo (lavadora, lavavajillas, nevera u horno) y se piden sus datos por consola.
-* 📋 **Mostrar el catálogo:** lista todos los electrodomésticos con su información completa.
-* 🚫 **Descatalogados:** muestra solo los productos que ya no se fabrican.
-* 🔎 **Filtrar por marca:** busca todos los electrodomésticos de una marca determinada.
-* ✅ **Validación de datos:** las respuestas de tipo sí/no y el año de fabricación se piden de nuevo hasta que son válidos.
+Al arrancar aparece un menú numérico. Desde él se da de alta un aparato eligiendo su tipo y respondiendo a las preguntas que el programa va haciendo (marca, modelo, eficiencia energética, año de fabricación y si se sigue fabricando). Todos los productos se guardan en una lista y se pueden consultar de varias formas.
 
-## 📋 Menú del programa
+* ✅ El año de fabricación y las respuestas de tipo sí/no se vuelven a pedir hasta que son válidos.
+* 🚫 Los productos que ya no se fabrican se pueden listar aparte, como «descatalogados».
+* 🔎 Se pueden recuperar todos los aparatos de una misma marca.
 
-1. Introducir un nuevo electrodoméstico.
-2. Mostrar todos los electrodomésticos con su información.
-3. Mostrar los electrodomésticos descatalogados.
-4. Mostrar los electrodomésticos de una marca determinada.
-5. Salir.
+## 🎛️ Opciones del menú
 
-## 🧱 Jerarquía de clases
-
-| 🧩 Clase | 🎯 Responsabilidad |
+| 🔢 Opción | 📖 Qué hace |
 |---|---|
-| `Electrodomestico` | Clase base con marca, modelo, eficiencia energética, año de fabricación y si se sigue fabricando. Define `MostrarInfo()` como método `virtual`. |
-| `Lavadora` | Añade el número de programas de lavado y una comprobación para indicar si es inteligente. |
-| `Lavavajillas` | Hereda los datos comunes y sobrescribe `MostrarInfo()` con sus características. |
-| `Nevera` | Añade capacidad e inteligencia. |
-| `Horno` | Añade autolimpiado y una comprobación de generación. |
-| `Program.cs` | Menú de consola y lista `List<Electrodomestico>` con todos los productos. |
+| 1 | Añadir un electrodoméstico nuevo. |
+| 2 | Mostrar todos con su información. |
+| 3 | Mostrar los descatalogados. |
+| 4 | Mostrar los de una marca. |
+| 5 | Salir. |
 
-## 🛠️ Tecnologías y conceptos
+## 🧬 Árbol de clases
 
-* 💻 **C#** y **.NET Framework**.
-* 🧬 **Herencia:** las cuatro clases hijas aprovechan el constructor y los atributos de la clase base.
-* 🎭 **Polimorfismo:** cada objeto muestra su información de forma distinta aunque se recorra la misma lista.
-* 🔒 **Encapsulamiento:** atributos protegidos o privados con métodos de acceso (`Get`/`Set`).
-* 📋 **Colecciones dinámicas** con `List<T>`.
-* ⌨️ **Entrada por consola** con menús y bucles de validación.
+* **`Electrodomestico`** (clase base): marca, modelo, eficiencia, año y estado de fabricación. Su método `MostrarInfo()` es `virtual`.
+* 🧼 **`Lavadora`**: añade el número de programas de lavado y comprueba si es inteligente.
+* 🍽️ **`Lavavajillas`**: aprovecha los datos comunes y muestra los suyos.
+* ❄️ **`Nevera`**: añade capacidad e inteligencia.
+* 🔥 **`Horno`**: añade autolimpiado y una comprobación de generación.
+* **`Program.cs`**: menú de consola y lista `List<Electrodomestico>` con todos los productos.
 
-## ▶️ Cómo ejecutar
+## 🧰 Herramientas empleadas
 
-1. Abre `TiendaElectrodomesticosHerencia.sln` con **Visual Studio**.
-2. Comprueba que el proyecto usa **.NET Framework**.
-3. Compila y ejecuta con **F5**.
-4. Sigue las instrucciones numéricas en pantalla para añadir y consultar productos.
+* 💻 **C#** sobre **.NET Framework**.
+* 🧬 **Herencia:** las clases hijas llaman al constructor de la base.
+* 🎭 **Polimorfismo:** una misma lista guarda objetos de cuatro tipos y cada uno se muestra a su manera.
+* 🔒 **Encapsulamiento** con atributos protegidos y métodos `Get`/`Set`.
+* 📋 **`List<T>`** como colección principal.
+* ⌨️ **Menús y bucles** para leer los datos por teclado.
 
-## 🔭 Alcance y mejoras posibles
+## 🏁 Para arrancarlo
 
-Los productos se guardan **solo en memoria** mientras el programa está abierto. Otras mejoras que se podrían añadir:
-
-* 💾 Guardar y recuperar el catálogo desde un fichero de texto.
-* 🔢 Controlar los casos en los que se escribe texto donde se espera un número.
-* ✏️ Añadir opciones para modificar o eliminar productos.
+1. Abre `TiendaElectrodomesticosHerencia.sln` en **Visual Studio**.
+2. Compila y pulsa **F5**.
+3. Elige una opción escribiendo su número. Los productos se mantienen en memoria hasta que se cierra el programa.
 
 ---
-🎓 *Proyecto de práctica para aplicar herencia, polimorfismo y colecciones en C#.*
+🎓 *Práctica de herencia y polimorfismo aplicada a un catálogo de electrodomésticos.*
