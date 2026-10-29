@@ -1,40 +1,55 @@
-# Ejercicios de Práctica en C#
+# 🧪 12 - Ejercicios de Práctica en C#
 
-Colección de trece ejercicios cortos de consola para afianzar los fundamentos de la Programación Orientada a Objetos. Casi todos siguen la misma idea: una clase base, varias clases derivadas, una lista y un menú para añadir, mostrar, buscar y eliminar. Cada carpeta tiene su propia solución (`.sln`).
+Trece programas de consola, pequeños y de temática variada, que sirvieron para entrenar los fundamentos de la Programación Orientada a Objetos. Cada ejercicio parte de una clase base, crea varias clases hijas y ofrece un menú para manejar una lista. Cada carpeta tiene su propia solución (`.sln`). 💪
 
-## 🐾 Animales y vehículos
+## 🐾 Seres vivos y vehículos
 
-* **Animales:** `Animal` con `Perro`, `Gato` y `Pajaro`, usando polimorfismo y ficheros.
-* **Vehiculos:** `Vehiculo` con `Moto`, `Coche` y `Autobus`; búsqueda y borrado por marca.
-* **Concesionaria-de-Vehiculos** (con enunciado): clase abstracta `Vehículo`, hijas `Auto` y `Camioneta`, y composición (la concesionaria contiene una lista de vehículos).
+* 🐶 **Animales:** `Animal` con `Perro`, `Gato` y `Pajaro`, que se comportan de forma distinta ante la misma orden.
+* 🚗 **Vehiculos:** `Vehiculo` con `Moto`, `Coche` y `Autobus`; se busca y se borra por marca.
+* 🚙 **Concesionaria-de-Vehiculos** *(con enunciado)*: `Vehículo` es abstracta, `Auto` y `Camioneta` la extienden y la concesionaria guarda una lista de vehículos.
 
-## 📚 Bibliotecas y publicaciones
+## 📖 Lectura y publicaciones
 
-* **Biblioteca-de-Archivos** (con enunciado): clase abstracta `Archivo` con `Libro` y `Revista`, búsqueda por título o autor, estadísticas y gestión de errores.
-* **Biblioteca-de-Materiales:** `Material` con `Libro`, `Revista` y `Periodico`, guardados y leídos de un fichero.
-* **Publicaciones:** `Publicacion` con `Libro` y `Revista`, búsqueda por título y ficheros.
+* 📚 **Biblioteca-de-Archivos** *(con enunciado)*: `Archivo` abstracta con `Libro` y `Revista`; permite buscar por título o autor y sacar estadísticas.
+* 🗂️ **Biblioteca-de-Materiales:** `Material` con `Libro`, `Revista` y `Periodico`, guardados y leídos desde un fichero.
+* 📰 **Publicaciones:** `Publicacion` con `Libro` y `Revista`; búsqueda por título.
 
-## 🛒 Tiendas y catálogos
+## 🛒 Comercios y colecciones
 
-* **Electrodomesticos:** lavadoras, lavavajillas, neveras y hornos con guardado y lectura de fichero.
-* **Tienda-de-Electrodomesticos:** variante con búsqueda por marca.
-* **Tienda-de-Instrumentos:** guitarras y pianos con alquiler y una clase `Tienda`.
-* **Fruteria:** cesta de productos con registro e inicio de sesión de usuarios; buscar y eliminar por identificador.
-* **Electronic-Mark:** móviles, relojes inteligentes y memorias USB, con propietario (identificado por DNI) y ubicación.
+* 🧺 **Electrodomesticos:** lavadoras, lavavajillas, neveras y hornos que se guardan y se leen de un fichero.
+* 🏬 **Tienda-de-Electrodomesticos:** otra versión de la tienda, con clases en plural y búsqueda por marca.
+* 🎹 **Tienda-de-Instrumentos:** guitarras y pianos que se pueden alquilar, gestionados por una clase `Tienda`.
+* 🍎 **Fruteria:** cesta de productos con registro e inicio de sesión; se busca y se elimina por identificador.
+* 📱 **Electronic-Mark:** móviles, relojes inteligentes y memorias USB asociados a un propietario (por DNI) y a una ubicación.
 
-## 🍳 Otros
+## 🍳 Registros sencillos
 
-* **Recetas:** `Receta` con `Tortilla`, `Gazpacho` y `Ensaladilla`; buscar y eliminar recetas.
-* **Registro-de-Deportistas:** alta, búsqueda y baja de deportistas por nombre.
+* 🥘 **Recetas:** `Receta` con `Tortilla`, `Gazpacho` y `Ensaladilla`; se pueden buscar y eliminar.
+* 🏅 **Registro-de-Deportistas:** alta, búsqueda y baja de deportistas por nombre.
 
-## 🛠️ Tecnologías aplicadas
+## 📌 Qué trabaja cada grupo
 
-* Lenguaje C# (.NET Framework)
-* Herencia, clases abstractas, polimorfismo, composición y encapsulamiento
-* Colecciones dinámicas (`List<T>`)
-* Entrada/Salida y manejo de ficheros (`System.IO`)
-* Gestión de errores con `try/catch`
+| 🧱 Grupo | 🎯 Protagonistas |
+|---|---|
+| Seres vivos y vehículos | Herencia, polimorfismo, abstracción y composición |
+| Lectura y publicaciones | Clases abstractas, búsquedas y estadísticas |
+| Comercios y colecciones | Jerarquías de varios tipos, usuarios y alquileres |
+| Registros sencillos | Altas, búsquedas y bajas sobre listas |
 
-## ▶️ Ejecución
+## 🛠️ Tecnologías y conceptos
 
-Entra en la carpeta del ejercicio, abre su `.sln` con Visual Studio y pulsa **F5**.
+* 💻 **C#** y **.NET Framework**.
+* 🧬 **Herencia**, **clases abstractas**, **polimorfismo**, **composición** y **encapsulamiento**.
+* 📋 **`List<T>`** como colección principal.
+* 💾 **Ficheros de texto** con `StreamReader` y `StreamWriter` en los ejercicios que los usan.
+* 🛡️ **`try/catch`** para controlar errores.
+* ⌨️ **Menús de consola** con altas, búsquedas, bajas y listados.
+
+## ▶️ Cómo abrirlos
+
+1. Entra en la carpeta del ejercicio.
+2. Abre su `.sln` con **Visual Studio**.
+3. Compila y ejecuta con **F5**.
+
+---
+🎓 *Ejercicios cortos para afianzar la programación orientada a objetos en C#.*
