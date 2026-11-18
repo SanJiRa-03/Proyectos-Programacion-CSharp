@@ -66,3 +66,7 @@ Los ficheros `previousgames.txt` y `rankings.txt` se utilizan para almacenar dat
 ## ⚠️ Estado conocido
 
 La opción de guardar datos de una partida en curso está presente, pero **la carga y reanudación completa de una partida todavía está pendiente**: `PlaySelectedGame` lee información guardada, pero el código que reconstruye el tablero y reinicia el bucle de juego está comentado. Asimismo, la comprobación de disparos repetidos no gestiona correctamente todos los casos de disparos al agua. Las islas y las zonas explosivas tampoco forman parte de las mecánicas activas de esta versión.
+
+## 📎 Documentación
+
+La carpeta [`docs/`](docs/) incluye la **memoria del proyecto** en PDF: descripción general, descripción técnica y diario de desarrollo.

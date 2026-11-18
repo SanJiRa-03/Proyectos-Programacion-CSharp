@@ -20,9 +20,9 @@ Versión de escritorio del clásico juego de memoria **Simon Says**. En pantalla
 | `Form3.cs` | Pantalla de registro de usuarios. |
 | `Usuarios.cs` | Clase con el nombre y la contraseña de cada usuario. |
 | `Properties/Resources.resx` | Imágenes de los cuatro colores, en estado normal e iluminado. |
-| `Memoria_Practica_3_Simon.pdf` | Memoria individual de la práctica. |
-| `Presentacion_Simon_Says.pptx` | Presentación del proyecto. |
-| `Texto_LinkedIn_Simon_Says.txt` | Texto de publicación para LinkedIn. |
+| `docs/Memoria-Simon-Says.pdf` | Memoria individual de la práctica. |
+| `docs/Presentacion-Simon-Says.pptx` | Presentación del proyecto. |
+| `docs/Texto-LinkedIn-Simon-Says.txt` | Texto de publicación para LinkedIn. |
 
 ## 🧠 Lo que se practica
 
@@ -45,7 +45,7 @@ Versión de escritorio del clásico juego de memoria **Simon Says**. En pantalla
 
 ## 📎 Documentación incluida
 
-Nota: La carpeta incluye la **memoria** que escribí para esta práctica.
+La carpeta [`docs/`](docs/) incluye la **memoria** que escribí para esta práctica.
 
 ---
 🎓 *Práctica académica para trabajar C#, Windows Forms, eventos y ficheros de texto.*
